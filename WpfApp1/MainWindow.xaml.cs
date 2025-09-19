@@ -18,7 +18,8 @@ namespace WpfApp1
         private string connectionString =
             "Data Source=LAB1502-005\\SQLEXPRESS;" +
             "Initial Catalog=Neptuno;" +
-            
+            "User ID=userTecsup;" +
+            "Password=123456;" +
             "TrustServerCertificate=True";
 
         public MainWindow()
